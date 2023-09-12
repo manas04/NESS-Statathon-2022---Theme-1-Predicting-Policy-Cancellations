@@ -42,7 +42,7 @@ Clone this GitHub repository to your local environment:
 
 bash
 Copy code
-git clone https://github.com/manas04/ness-statathon-2022-theme1.git
+git clone https://github.com/manas04/NESS-Statathon-2022---Theme-1-Predicting-Policy-Cancellations.git
 Navigate to the project directory:
 
 bash
