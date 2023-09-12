@@ -42,7 +42,7 @@ Clone this GitHub repository to your local environment:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ness-statathon-2022-theme1.git
+git clone https://github.com/manas04/ness-statathon-2022-theme1.git
 Navigate to the project directory:
 
 bash
@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **#Acknowledgments**
 The NESS Statathon organizing committee for providing the dataset and the opportunity to participate in this challenge.
-**Contact**
+**#Contact**
 If you have any questions or suggestions, please feel free to contact us:
 
 Name: manasj9507@gmail.com 
