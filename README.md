@@ -1,4 +1,4 @@
-# NESS-Statathon-2022---Theme-1-Predicting-Policy-Cancellations
+# NESS-Statathon-2022-Predicting-Policy-Cancellations
 **#Overview**
 This project is part of the 2022 NESS Statathon (Theme 1) and focuses on predicting property insurance policy cancellations using historical policy data. The goal is to create a multiclass predictive model to predict policies that are most likely to be canceled and those most likely to be renewed. Additionally, the project aims to identify the variables that are most influential in causing policy cancellations.
 
